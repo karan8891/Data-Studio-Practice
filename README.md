@@ -14,4 +14,5 @@ Data Studio provides you with an opportunity to pull data from various sources (
 <br>
 References:<br>
 - Data Sheet: https://docs.google.com/spreadsheets/d/1zvGwu0ux7aJO-6bWNd3JUg1ZQ10AfpTHowLWVQ_TU0s/edit?usp=sharing <br>
-- Tutorial: https://www.youtube.com/watch?v=1qGsjmmHiu8
+- Tutorial: https://www.youtube.com/watch?v=1qGsjmmHiu8 <br>
+- Link to Report: https://datastudio.google.com/reporting/9a98d95c-e4ef-4186-b1e5-d9e1c049cab8
