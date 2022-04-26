@@ -12,6 +12,6 @@ Data Studio provides you with an opportunity to pull data from various sources (
 - Geo map (zoom area), scorecards, treemap, stacked bar chart, line chart
 - Additional functions
 <br>
-## References:
-- Data Sheet: https://docs.google.com/spreadsheets/d/1zvGwu0ux7aJO-6bWNd3JUg1ZQ10AfpTHowLWVQ_TU0s/edit?usp=sharing
+References:<br>
+- Data Sheet: https://docs.google.com/spreadsheets/d/1zvGwu0ux7aJO-6bWNd3JUg1ZQ10AfpTHowLWVQ_TU0s/edit?usp=sharing <br>
 - Tutorial: https://www.youtube.com/watch?v=1qGsjmmHiu8
